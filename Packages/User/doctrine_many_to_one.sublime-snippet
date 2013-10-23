@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+ /**
+ * @ORM\ManyToOne(targetEntity="${1:class}")
+ *
+ * @var ${2:class} ${3:\$entity}
+ */
+ protected ${4:\$entity};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>doctrine_many_to_one</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

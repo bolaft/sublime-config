@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @ORM\Column(type="datetime")
+ * @Gedmo\Timestampable(on="update")
+ *
+ * @var \DateTime \$updated_at
+ */
+protected \$updated_at;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>doctrine_updated_at</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,27 @@
+[
+    {
+        "caption": "Themr: Phoenix Light", 
+        "args": {
+            "t": "Phoenix Light.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Phoenix Dark", 
+        "args": {
+            "t": "Phoenix Dark.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Default", 
+        "args": {
+            "t": "Default.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Reload themes", 
+        "command": "reload_themes"
+    }
+]

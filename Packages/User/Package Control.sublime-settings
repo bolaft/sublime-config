@@ -1,0 +1,32 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
+		"Alignment",
+		"Clipboard History",
+		"Color Highlighter",
+		"CSSTidy",
+		"CSV",
+		"DetectSyntax",
+		"DocBlockr",
+		"Emmet",
+		"ExportHtml",
+		"HTML-CSS-JS Prettify",
+		"INI",
+		"LESS",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Print to HTML",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Simple Print Function",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"Themr",
+		"Twig"
+	]
+}

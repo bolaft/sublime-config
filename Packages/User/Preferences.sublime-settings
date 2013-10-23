@@ -1,0 +1,11 @@
+{
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"phoenix_tabs_auto_width": true,
+	"phoenix_tabs_medium": true,
+	"theme": "Phoenix Light.sublime-theme",
+	"word_wrap": true
+}

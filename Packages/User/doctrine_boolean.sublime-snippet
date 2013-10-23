@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @ORM\Column(type="${1:boolean}", nullable=${2:true})
+ *
+ * @var ${3:boolean} ${4:\$property}
+ */
+protected ${5:\$property};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>doctrine_boolean</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
